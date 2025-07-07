@@ -3,10 +3,6 @@ Here's an enhanced `README.md` that comprehensively documents your NIFTY straddl
 ```markdown
 # 📊 NIFTY Expiry Straddle Strategy v3.0
 
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![Backtest](https://img.shields.io/badge/backtest-passing-brightgreen)
-![WinRate](https://img.shields.io/badge/win_rate-75%25-green)
-
 A sophisticated backtesting framework for NIFTY options straddle strategies with:
 - Realistic option price simulation using Black-Scholes
 - Dynamic volatility regime detection
@@ -114,10 +110,6 @@ EXIT_CONDITIONS = {
 }
 ```
 
-## 📈 Visual Analysis
-
-![Strategy Performance](https://via.placeholder.com/600x400?text=Sample+Performance+Chart)
-
 ## 📚 Documentation Structure
 
 ```
@@ -137,9 +129,9 @@ docs/
 ## 📫 Contact
 
 For strategy questions or contributions:
-📧 iknir14901@gmai.com 
-🔗 https://www.linkedin.com/in/kunal-kumar-9aa708200/ 
-🐛 [[GitHub Issues]](https://github.com/kunal14901)
+📧 [iknir14901@gmail.com]  
+🔗 [https://www.linkedin.com/in/kunal-kumar-9aa708200/]  
+🐛 [https://github.com/kunal14901]
 ```
 
 Key improvements:
